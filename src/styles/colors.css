@@ -1,0 +1,37 @@
+:root {
+  /* Background Colors */
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #141414;
+  --bg-tertiary: #1e1e1e;
+  --bg-card: #141414;
+  --bg-sidebar: #141414;
+  
+  /* Text Colors */
+  --text-primary: #ffffff;
+  --text-secondary: #a1a1a1;
+  --text-muted: #6b6b6b;
+  --text-disabled: #404040;
+  
+    /* Accent Colors */
+  --accent-primary: #3b82f6;
+  --accent-secondary: #6366f1;
+  --accent-muted: #1e40af;
+  
+  /* Semantic Colors */
+  --error: #ef4444;
+  --info: #3b82f6;
+  
+  /* Border Colors */
+  --border-primary: #2a2a2a;
+  --border-secondary: #1a1a1a;
+  --border-accent: #374151;
+  
+  /* Overlay Colors */
+  --overlay-light: rgba(255, 255, 255, 0.05);
+  --overlay-heavy: rgba(0, 0, 0, 0.6);
+  /* Component Specific */
+  --card-hover: #171717;
+  --button-hover: #2a2a2a;
+  --button-neutral: #1a1a1a;
+  --scrollbar: #141414;
+}
